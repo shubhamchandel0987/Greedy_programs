@@ -1,2 +1,2 @@
-# Greedy_programs
+# Dynamic_programs
 The repo. contain the leetcode solved programs related to dynamic programming.
